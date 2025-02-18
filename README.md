@@ -1,6 +1,6 @@
 <h1>Zombie Defense 2D Shooter Game</h1>
 
-<img src="https://raw.githubusercontent.com/Pranav-Talwar/Zombie-Defense/blob/main/Assets/Screenshot%202025-02-18%20115017.png" alt="Project Screenshot" />
+<img src="https://raw.githubusercontent.com/Pranav-Talwar/Zombie-Defense/main/Assets/Screenshot%202025-02-18%20115017.png" alt="Project Screenshot" />
 
 
 
