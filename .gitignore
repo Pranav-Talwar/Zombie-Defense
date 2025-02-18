@@ -1,0 +1,20 @@
+# User-specific files
+UserSettings/
+
+# Build results
+Builds/
+Build/
+build/
+.vs/
+.vscode/
+
+# Unity generated files
+Library/
+obj/
+Temp/
+.unitypackage
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
